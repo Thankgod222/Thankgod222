@@ -12,11 +12,11 @@
 >
 > - 💬 If not solving problems or doing hard things, you can find me modeling new creations and learning new things.
 >
-> - 📫 **How to reach me **Thankgodogbonna01@gmail.com@gmail.com****
+> - 📫 **How to reach me **Thankgodogbonna01@gmail.com****
 > 
 > - 🥅 Goals: Solving Problems and contributing more to Open source Projects
 >
-> - ⚡ Fun fact: I love playing video Games (Call of Duty)
+> - ⚡ Fun fact: I love playing music
 > 
 >
 ><h3 align="left">Connect with me:</h3>
@@ -24,19 +24,19 @@
 >
 > <a href="https://www.linkedin.com/in/tolutech" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna" height="30" width="40" /></a> 
 >    <a href="https://wa.link/4clrdv" target="_blank_"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna"" height="30" width="40" /></a> 
 >  <a href="https://fb.com/tolulope.fakunle.1" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna"" height="30" width="40" /></a> 
 >  <a href="https://www.instagram.com/tolucoder" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna"" height="30" width="40" /></a> 
 > <a href="https://twitter.com/FakunleTolu" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna"" height="30" width="40" /></a> 
 > </p>
 >
 > <br>
