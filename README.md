@@ -27,16 +27,16 @@
 >      alt="Thankgod Ogbonna" height="30" width="40" /></a> 
 >    <a href="https://wa.link/4clrdv" target="_blank_"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
->      alt="Thankgod Ogbonna"" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna" height="30" width="40" /></a> 
 >  <a href="https://fb.com/tolulope.fakunle.1" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
->      alt="Thankgod Ogbonna"" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna" height="30" width="40" /></a> 
 >  <a href="https://www.instagram.com/tolucoder" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
->      alt="Thankgod Ogbonna"" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna" height="30" width="40" /></a> 
 > <a href="https://twitter.com/FakunleTolu" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
->      alt="Thankgod Ogbonna"" height="30" width="40" /></a> 
+>      alt="Thankgod Ogbonna" height="30" width="40" /></a> 
 > </p>
 >
 > <br>
