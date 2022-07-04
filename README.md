@@ -12,7 +12,7 @@
 >
 > - 💬 If not solving problems or doing hard things, you can find me modeling new creations and learning new things.
 >
-> - 📫 **How to reach me **Thankgod222@gmail.com****
+> - 📫 **How to reach me **Thankgodogbonna01@gmail.com@gmail.com****
 > 
 > - 🥅 Goals: Solving Problems and contributing more to Open source Projects
 >
