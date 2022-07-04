@@ -80,7 +80,7 @@
 > <br>
 > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thankgod222&layout=compact&theme=light&hide_border=false" />
 > <img align="left" src="https://github-readme-stats.vercel.app/api?username=Thankgod222&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Thankgod's github stats" />
-> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thankgod222" alt="Thankgod222" /></p>
+> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Thankgod222" alt="Thankgod222" /></p>
 > <br/>
 > <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
