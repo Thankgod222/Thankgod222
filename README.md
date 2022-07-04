@@ -85,7 +85,7 @@
 > <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
 
-> <a href="https://github.com/Thankgod222/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thankgod222&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/Thankgod222/github-readme-activity-graph"><img alt="ThankGod Ogbonna' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thankgod222&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
 <br/>
 
