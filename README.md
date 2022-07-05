@@ -84,8 +84,9 @@
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thankgod222&layout=compact&theme=light&hide_border=true" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thankgod222" alt="Thankgod Ogbonna" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thankgod222show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Thankgod222 github stats" /> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thankgod222" alt="Thankgod Ogbonna" />
+</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thankgod222&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Thankgod222 github stats" /> 
 
 
 
