@@ -12,7 +12,7 @@
 >
 > - 💬 If not solving problems or doing hard things, you can find me modeling new creations and learning new things.
 >
-> - 📫 **How to reach me **fakunletolulope05@gmail.com****
+> - 📫 **How to reach me **ThankgodOgbonna01@gmail.com****
 > 
 > - 🥅 Goals: Solving Problems and contributing more to Open source Projects
 >
@@ -100,6 +100,6 @@
 
 
 <!---
-Tolulope05/Tolulope05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Thankgod222/Thankgod222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
