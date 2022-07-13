@@ -25,7 +25,7 @@
 > <a href="https://www.linkedin.com/in/nonytech/" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 >      alt="Thankgod ogbonna" height="30" width="40" /></a> 
->    <a href="https://wa.link/4clrdv" target="_blank_"><img align="center"
+>    <a href="https://wa.me/message/3VVNIMMAOND3G1" target="_blank_"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
 >      alt="Tolulope Fakunle" height="30" width="40" /></a> 
 >  <a href="https://fb.com/tolulope.fakunle.1" target="_blank"><img align="center"
