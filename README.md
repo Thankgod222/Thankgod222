@@ -16,7 +16,7 @@
 > 
 > - 🥅 Goals: Solving Problems and contributing more to Open source Projects
 >
-> - ⚡ Fun fact: I love playing video Games (Call of Duty)
+> - ⚡ Fun fact: I love playing music, playing football
 > 
 >
 ><h3 align="left">Connect with me:</h3>
